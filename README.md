@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wellybob
 - 👀 I’m interested in testing, penetration/vulnerability testing
-- 🌱 I’m currently learning router config
+- 🌱 I’m currently learning server authentication methods
 - 💞️ I’m looking to collaborate on network testing
 - 📫 How to reach me rerortom@gmail.com
 
